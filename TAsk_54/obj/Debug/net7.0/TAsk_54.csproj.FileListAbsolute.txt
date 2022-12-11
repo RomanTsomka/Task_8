@@ -1,0 +1,15 @@
+C:\Users\Roman\Task_8\TAsk_54\bin\Debug\net7.0\TAsk_54.exe
+C:\Users\Roman\Task_8\TAsk_54\bin\Debug\net7.0\TAsk_54.deps.json
+C:\Users\Roman\Task_8\TAsk_54\bin\Debug\net7.0\TAsk_54.runtimeconfig.json
+C:\Users\Roman\Task_8\TAsk_54\bin\Debug\net7.0\TAsk_54.dll
+C:\Users\Roman\Task_8\TAsk_54\bin\Debug\net7.0\TAsk_54.pdb
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.csproj.AssemblyReference.cache
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.AssemblyInfoInputs.cache
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.AssemblyInfo.cs
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.dll
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\refint\TAsk_54.dll
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.pdb
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\TAsk_54.genruntimeconfig.cache
+C:\Users\Roman\Task_8\TAsk_54\obj\Debug\net7.0\ref\TAsk_54.dll
